@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/huynguyen/.nuget/packages/": {}
+    "C:\\Users\\Hoang Hung\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
+      "projectUniqueName": "C:\\Users\\Hoang Hung\\Documents\\GitHub\\bai-tap-operator-va-control-flow-nDoubleH174\\csharp-assignment-hello-world\\csharp-assignment-hello-world\\csharp-assignment-hello-world.csproj",
       "projectName": "csharp-assignment-hello-world",
-      "projectPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world.csproj",
-      "packagesPath": "/Users/huynguyen/.nuget/packages/",
-      "outputPath": "/Users/huynguyen/Documents/GitHub/csharp-assignment-hello-world/csharp-assignment-hello-world/csharp-assignment-hello-world/obj/",
+      "projectPath": "C:\\Users\\Hoang Hung\\Documents\\GitHub\\bai-tap-operator-va-control-flow-nDoubleH174\\csharp-assignment-hello-world\\csharp-assignment-hello-world\\csharp-assignment-hello-world.csproj",
+      "packagesPath": "C:\\Users\\Hoang Hung\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hoang Hung\\Documents\\GitHub\\bai-tap-operator-va-control-flow-nDoubleH174\\csharp-assignment-hello-world\\csharp-assignment-hello-world\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/huynguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Hoang Hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
